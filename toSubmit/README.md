@@ -1,0 +1,3 @@
+- Install requirements.txt
+- Shouldn't need to run `firstRun.ipynb`, it's basically a first version of the process. It was used but duplicated, expanded and cleaned in `firstRunContinued.ipynb`. It is included for its output cells.
+- `firstRunContinued.ipynb` is cleaner and has more epochs and steps, and more markdown guiding
